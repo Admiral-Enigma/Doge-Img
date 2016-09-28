@@ -2,7 +2,7 @@
 
 A very basic package(my first one) which purpose is to make it to add doge to you're website.
 
-![A screenshot of your package](/res/pic.PNG)
+![A screenshot of your package](https://raw.githubusercontent.com/DemSquirrel/Doge-Img/master/res/pic.PNG)
 
 
 #How to

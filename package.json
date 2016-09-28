@@ -11,7 +11,7 @@
   "activationCommands": {
     "atom-workspace": "doge-img:such wow"
   },
-  "repository": "https://github.com/atom/doge-img",
+  "repository": "https://github.com/DemSquirrel/Doge-Img",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

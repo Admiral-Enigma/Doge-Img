@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Wow such bro doge-img",
+        "command": "doge-img:such wow"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "doge-img",
+          "submenu": [
+            {
+              "label": "Such wow",
+              "command": "doge-img:such wow"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

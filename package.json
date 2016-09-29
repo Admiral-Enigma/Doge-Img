@@ -1,7 +1,7 @@
 {
   "name": "doge-img",
   "main": "./lib/doge-img",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Simple way to add doge to your website",
   "keywords": [
     "wow",

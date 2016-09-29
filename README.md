@@ -1,6 +1,6 @@
 # doge-img package
 
-A very basic package(my first one) which purpose is to make it to add doge to you're website.
+A very basic package(my first one) which purpose is to make it easy to add doge to you're website.
 
 ![A screenshot of your package](https://raw.githubusercontent.com/DemSquirrel/Doge-Img/master/res/pic.PNG)
 
